@@ -10,8 +10,9 @@ Me chamo Yasmin Nohra, tenho 25 anos e sou do Rio de Janeiro. Atualmente, estou 
             alt="Gmail" 
             title="Email" 
              src="https://img.shields.io/badge/-Gmail-%23E05D44?style=for-the-badge&logo=gmail&logoColor=white" target="
-        />
+        />   
     </a>
+    <p align="left">
     <a href="https://www.linkedin.com/in/yasminohra/">
         <img 
             alt="LinkedIn" 
