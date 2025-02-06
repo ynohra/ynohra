@@ -5,14 +5,14 @@
 Me chamo Yasmin Nohra, tenho 25 anos e sou do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software e estou sempre buscando aprender novas linguagens para desenvolver minhas habilidades, além de me atualizar e especializar com cursos livres, colocando em prática o que aprendo por meio de projetos. Aqui no meu GitHub, compartilho minha evolução na área de tecnologia.
 
 <p align="left">
-    <a href="nohratech@gmail.com">
+    <a href="mailto:nohratech@gmail.com">
         <img 
             alt="Gmail" 
             title="Email" 
              src="https://img.shields.io/badge/-Gmail-%23E05D44?style=for-the-badge&logo=gmail&logoColor=white" target="
         />
     </a>
-    <a href="www.linkedin.com/in/yasminohra">
+    <a href="https://www.linkedin.com/in/yasminohra/">
         <img 
             alt="LinkedIn" 
             title="Meu perfil no LinkedIn" 
