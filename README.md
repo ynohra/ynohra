@@ -99,5 +99,8 @@ Me chamo Yasmin Nohra, tenho 25 anos e sou do Rio de Janeiro. Atualmente, estou 
       height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynohra&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/ynohra/count.svg?"  />
+  </div>
 
 </p>
