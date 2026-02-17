@@ -1,105 +1,89 @@
-#  Yasmin Nohra 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:9d4edd&height=140&section=header"/>
+</p>
 
-**`Desenvolvedora Backend`**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Yasmin+Nohra;Backend+Developer+in+Progress" />
+</h1>
 
-Me chamo Yasmin Nohra, tenho 25 anos e sou do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software e estou sempre buscando aprender novas linguagens para desenvolver minhas habilidades, além de me atualizar e especializar com cursos livres, colocando em prática o que aprendo por meio de projetos. Aqui no meu GitHub, compartilho minha evolução na área de tecnologia.
+<p align="center">
+  👩‍💻 Estudante de Desenvolvimento Backend <br>
+  🎓 Graduanda em Engenharia de Software <br>
+  📍 Rio de Janeiro - Brasil
+</p>
 
-<p align="left">
-    <a href="mailto:nohratech@gmail.com">
-        <img 
-            alt="Gmail" 
-            title="Email" 
-             src="https://img.shields.io/badge/-Gmail-%23E05D44?style=for-the-badge&logo=gmail&logoColor=white" target="
-        />   
-    </a>
-    <p align="left">
-    <a href="https://www.linkedin.com/in/yasminohra/">
-        <img 
-            alt="LinkedIn" 
-            title="Meu perfil no LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <a href="mailto:nohratech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1E1E2F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3a0ca3&color=7209b7"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yasminohra/">
+    <img src="https://img.shields.io/badge/LinkedIn-1E1E2F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3a0ca3&color=7209b7"/>
+  </a>
 </p>
 
 ---
 
-### Linguagens e Tecnologias
+## Sobre mim
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+Tenho 26 anos e sou estudante de Engenharia de Software com foco em Desenvolvimento Backend.
 
-<img 
-    align="left" 
-    alt="NodeJs" 
-    title="NodeJs"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
+Estou aprofundando meus conhecimentos em construção de APIs, bancos de dados relacionais e não relacionais e boas práticas de arquitetura.
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+Aqui no meu GitHub compartilho minha evolução na área de tecnologia por meio de projetos práticos e aplicações backend que simulam problemas reais.
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"    
-/>
+---
 
-<img 
-    align="left" 
-    alt="Spring Boot" 
-    title="Spring Boot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"    
-/>
+## Atualmente estudando
 
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+- ☕ Java e Programação Orientada a Objetos  
+- 🌱 Spring Boot  
+- 🔗 APIs REST    
+- 🐘 PostgreSQL e MySQL
+- 🍃 MongoDB
+- 🐳 Docker 
 
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"    
-/>
+---
 
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
+## Tecnologias e Ferramentas
 
-<br/>
-<br/>
+<p align="center">
 
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" title="Spring Boot"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" title="IntelliJ IDEA"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/>
+
+</p>
+
+---
+
+## Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    width="70%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ynohra&theme=tokyonight"
+  />
+</p>
+
+
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:9d4edd&height=140&section=footer"/>
+</p>
 
